@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hello! I'm Dr. Ujjal Mandal"
+title: "Home"
 author_profile: true
 
 header:
