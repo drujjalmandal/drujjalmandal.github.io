@@ -15,7 +15,7 @@ To implement and accelerate his computational research, he utilized programming 
 
 His research contributions include publications in leading scientific journals, including the *Journal of the Acoustical Society of America (JASA)* and *Photoacoustics*.
 
-Dr. Mandal has also collaborated with researchers from reputed national and international institutions. His research network includes **[Prof. Ben T. Cox of University College London (UCL)](https://profiles.ucl.ac.uk/5280-ben-cox)**, **Prof. Jagpreet Singh of IIT Ropar**, and researchers at IIIT Allahabad. These collaborations reflect his engagement with the broader scientific community in computational acoustics, biomedical ultrasonics, photoacoustic imaging, and numerical wave modeling.
+Dr. Mandal has also collaborated with researchers from reputed national and international institutions. His research network includes **[Prof. Ben T. Cox of University College London (UCL)](https://profiles.ucl.ac.uk/5280-ben-cox)**, **[Prof. Jagpreet Singh of IIT Ropar](https://iitrpr.ac.in/department/cse/faculty)**, and researchers at IIIT Allahabad. These collaborations reflect his engagement with the broader scientific community in computational acoustics, biomedical ultrasonics, photoacoustic imaging, and numerical wave modeling.
 
 News
 ======
