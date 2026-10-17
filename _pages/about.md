@@ -19,18 +19,22 @@ Dr. Mandal has also collaborated with researchers from reputed national and inte
 
 News
 ======
-06/06/2026 - Random but I just want to share: I passed my Taekwondo 1st Dan Black Belt Test! \
-02/03/2026 - Congrats to Yousuf for his [human skull deaberration paper](https://www.nature.com/articles/s42005-026-02545-3)! This is an underrecognized but highly important contribution to advancing our field. \
-01/21/2026 - I got the 2026 SPIE Best Paper Award at the Photons Plus Ultrasound Conference in San Francisco, California. This is my first SPIE conference in my PhD, I can finally have a good sleep now... \
-01/16/2026 - Big congrats to Yang for his second [Nature BME paper](https://www.nature.com/articles/s41551-025-01603-5)! Really inspiring perseverance and determination! \
-12/08/2025 - Congrats to Xiaofei for her [IEEE TMI](https://ieeexplore.ieee.org/abstract/document/11299425) paper! A rewarding gift for her time at Caltech! \
-11/21/2025 - Big congrats to Byullee, Rui and Cindy for our paper published in [Science Advances](https://www.science.org/doi/10.1126/sciadv.adz1820)! \
-06/24/2025 - Big congrats to Xin and Cindy for our paper published in [Nature BME](https://www.nature.com/articles/s41551-025-01435-3)! \
-06/17/2025 - My Google Scholar citation reached 1000+! \
-05/23/2025 - My first [review article](https://link.springer.com/article/10.1007/s11936-025-01092-4) is online! \
-12/27/2024 - Congrats to Karteek for his publication on [TMI](https://ieeexplore.ieee.org/abstract/document/10829500)! What a great holiday gift :) \
-12/18/2024 - Congrats to Rui for his publication on [Science Advances](https://www.science.org/doi/10.1126/sciadv.ado0518)! Rui YYDS! \
-10/14/2024 - Got the Certificate of Distinction as an IEEE TMI Distinguished Reviewer! \
-09/04/2024 - Started setting up my homepage! \
-08/29/2024 - My first paper at Caltech is accepted by IEEE Transactions of Medical Imaging (IF=10.6)! Check it out [here](https://doi.org/10.1109/TMI.2024.3456595)
+## News
+**======**
+
+09/03/2024 - Attended the [COMSOL Workshop](#) at IIIT Allahabad, scheduled for Tuesday, 3 September 2024. Location: IIITA, Admin Auditorium / Online. 
+
+27–28/04/2024 - Participated in the [Two-Day Virtual Bioengineering Conclave](#), organized by the Bioengineering Group, IIIT Allahabad. The event was held online via Google Meet. Location: IIITA, Online. 
+
+30–31/03/2023 - Participated in the [4th Workshop on Photonics for Health, Atmosphere, Safety and Education (PHASE 2023)](#), organized as part of the Royal Academy of Engineering, UK, Distinguished International Associate (DIA) Award. The event featured 17 invited speakers, a poster session for research scholars, laboratory visits, and hands-on sessions. Location: IIT Gandhinagar (IITGN). 
+
+20–22/10/2022 - Participated in the [Symposium-cum-Hands-on Workshop on Medical Imaging](#). Location: IISER Thiruvananthapuram (IISER TVM). 
+
+19–21/08/2021 - Participated in the [Three-Day Online Workshop on Recent Trends in Biomedical Imaging and Applications](#), organized by Dr. Ratan K. Saha, Dr. Amaresh K. Sahoo, and Prof. Tapobrata Lahiri. Location: IIIT Allahabad (IIITA), Online. 
+
+30–31/07/2020 - Participated in the workshop on *Contribution of Physics towards Atma Nirbhar Bharat*. Location: N.S.B.C. Government College, Biaora, Madhya Pradesh. 
+
+07–08/11/2017 - Participated in the [Workshop on Innovative Experiments for Students](#), organized by UGC-DAE. Location: Kolkata. 
+
+06–07/10/2015 - Participated in the [Discussion Meeting on Science Related to Space and Nuclear Research and Industry](#). Location: Saha Institute of Nuclear Physics (SINP), Kolkata.
 
