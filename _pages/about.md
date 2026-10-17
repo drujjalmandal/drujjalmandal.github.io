@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-**Dr. Ujjal Mandal** is a researcher whose Ph.D. degree was awarded on **12 September 2026**. He pursued his doctoral research at the **Indian Institute of Information Technology Allahabad (IIIT Allahabad)** from 19 August 2021 to 29 August 2026.
+**Dr. Ujjal Mandal** is a researcher whose Ph.D. degree was awarded on **12 September 2026**. He pursued his doctoral research at the **[Indian Institute of Information Technology Allahabad (IIIT Allahabad)](https://www.iiita.ac.in/)** from 19 August 2021 to 29 August 2026, under the supervision of [Prof. Ratan K. Saha](https://www.iiita.ac.in/faculty).
 
 His primary research focused on developing **two-dimensional (2D) Helmholtz equation solvers for biomedical ultrasonics and photoacoustics**, with particular emphasis on numerical modeling and computational methods for wave propagation in realistic media.
 
