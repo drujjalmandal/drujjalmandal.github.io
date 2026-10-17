@@ -19,8 +19,6 @@ Dr. Mandal has also collaborated with researchers from reputed national and inte
 
 News
 ======
-## News
-**======**
 
 09/03/2024 - Attended the [COMSOL Workshop](#) at IIIT Allahabad, scheduled for Tuesday, 3 September 2024. Location: IIITA, Admin Auditorium / Online. 
 
