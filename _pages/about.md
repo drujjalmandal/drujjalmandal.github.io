@@ -2,7 +2,13 @@
 permalink: /
 title: "Hello! I'm Dr. Ujjal Mandal"
 author_profile: true
-redirect_from: 
+
+header:
+  overlay_image: /images/research-background.png
+  overlay_filter: rgba(0, 0, 0, 0.45)
+  caption: "Computational Acoustics | Biomedical Ultrasonics | Photoacoustics"
+
+redirect_from:
   - /about/
   - /about.html
 ---
