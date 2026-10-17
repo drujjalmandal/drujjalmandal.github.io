@@ -19,6 +19,11 @@ Dr. Mandal has also collaborated with researchers from reputed national and inte
 
 News
 ======
+1. 12/09/2026 - Ph.D Degree awarded at [XXI Convocation](https://convocation.iiita.ac.in/).
+
+1. 28/08/2026 - Ph.D Viva-Voce (Oral Defense).
+
+1. 21/04/2026 - Ph.D Thesis submitted.
 
 1. 09/03/2024 - Attended the [COMSOL Workshop](#) at IIIT Allahabad, scheduled for Tuesday, 3 September 2024. Location: IIITA, Admin Auditorium / Online. 
 
