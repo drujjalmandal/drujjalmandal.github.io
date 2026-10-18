@@ -3,6 +3,12 @@ title: "My Bookshelf"
 permalink: /bookshelf/
 layout: archive
 author_profile: true
+
+header:
+  overlay_image: research-background.png
+  overlay_filter: rgba(0, 0, 0, 0.09)
+  caption: "Computational Acoustics | Biomedical Ultrasonics | Photoacoustics"
+  
 ---
 
 <div class="bookshelf-intro">
