@@ -190,7 +190,7 @@ header:
     <span class="book-link">Open resource ↗</span>
   </a>
   <a class="book-card" href="https://drive.google.com/file/d/1HWObAEyjM4NgXSiCRXBgnmFLpAu-eYrO/view?usp=sharing" target="_blank" rel="noopener noreferrer">
-    <span class="cover-wrap"><img src="images/subirdas.jfif" alt="subirdas" loading="lazy"></span>
+    <span class="cover-wrap"><img src="/images/subirdas.jfif" alt="subirdas" loading="lazy"></span>
     <span class="book-title">subirdas</span>
     <span class="book-link">Open resource ↗</span>
   </a>
