@@ -8,7 +8,7 @@ header:
   overlay_image: research-background.png
   overlay_filter: rgba(0, 0, 0, 0.09)
   caption: "Computational Acoustics | Biomedical Ultrasonics | Photoacoustics"
-  
+
 ---
 
 <div class="bookshelf-intro">
@@ -195,12 +195,12 @@ header:
     <span class="book-link">Open resource ↗</span>
   </a>
   <a class="book-card" href="https://drive.google.com/file/d/12PCZW3bUkfT9RCwThVKwxTae-jpwagjn/view?usp=sharing" target="_blank" rel="noopener noreferrer">
-    <span class="cover-wrap"><img src="images/XI_1.png" alt="XI 1" loading="lazy"></span>
+    <span class="cover-wrap"><img src="XI_1.png" alt="XI 1" loading="lazy"></span>
     <span class="book-title">XI 1</span>
     <span class="book-link">Open resource ↗</span>
   </a>
   <a class="book-card" href="https://drive.google.com/file/d/1Rgbb3sdle8QpWGXBsJzqJpQtBDcQ1EGh/view?usp=sharing" target="_blank" rel="noopener noreferrer">
-    <span class="cover-wrap"><img src="images/XI_2.png" alt="XI 2" loading="lazy"></span>
+    <span class="cover-wrap"><img src="XI_2.png" alt="XI 2" loading="lazy"></span>
     <span class="book-title">XI 2</span>
     <span class="book-link">Open resource ↗</span>
   </a>
