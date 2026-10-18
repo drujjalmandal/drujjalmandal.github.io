@@ -2,7 +2,7 @@
 title: "Efficient implementations of a Born Series for computing photoacoustic field from a collection of erythrocytes"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+#excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2025-10-04
 venue: 'Photoacoustics'
 paperurl: 'https://doi.org/10.1016/j.pacs.2025.100724'
