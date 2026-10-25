@@ -63,11 +63,8 @@ header:
 </script>
 <body>
 
-<h2 id="{{ year | slugify }}" class="archive__subtitle">2025</h2>
 
-
-
-
+  <h2 id="{{ year | slugify }}" class="archive__subtitle">2025</h2>
 <!-- pub 16 -->
 <div class="publication">
   <div class="publication-image">
@@ -103,37 +100,50 @@ header:
   </div>
 </div>
 
+<h2 id="{{ year | slugify }}" class="archive__subtitle">2023</h2>
 <!-- pub 15 -->
 <div class="publication">
   <div class="publication-image">
-    <img src="https://raw.githubusercontent.com/elynluo/elynluo.github.io/master/_publications/BEM_2025.png" alt="BEM_2025" width="150" height="150">
+    <img src="CBS.jpg" alt="BEM_2025" width="150" height="150">
   </div>
   <div class="publication-details">
     <font size="4">
-      <a href="https://ieeexplore.ieee.org/abstract/document/10829500" style="text-decoration: none;">
+      <a href="https://doi.org/10.1117/12.2670935" style="text-decoration: none;">
         <span style="color: #191717;">
           <strong>
-            15. Transcranial photoacoustic tomography de-aberrated using boundary elements
+            On the Born series methods for solving inhomogeneous Helmholtz equation in biomedical photoacoustics 
           </strong>
         </span>
       </a>
     </font>
     <br>
     <font size="3">
-      <span style="color: #A4907C;">
-        [Karteekeya Sastry*, Yousuf Aborahama*], <span style="color: #213555;"><strong>Yilin Luo</strong></span>, Yang Zhang, Manxiu Cui, Rui Cao, Geng Ku, Lihong V. Wang
+      <span style="color: #A4907C;"><span style="color: #213555;"><strong>Ujjal Mandal</strong></span>, Jagpreet Singh, Ratan Saha
       </span>
     </font>
     <br>
     <font size="3" style="font-family: 'Font', Calibri;">
       <a style="text-decoration: none;">
-        <span style="color: #B2533E;"> IEEE Transcations on Medical Imaging, 44(5), pp. 2068-2078 (2025) </span>
+        <span style="color: #B2533E;"> Proc. SPIE 12631, Opto-Acoustic Methods and Applications in Biophotonics VI, 126310W (11 August 2023) </span>
       </a>
     </font>
     <br>
     <font size="3">
       <span style="color: gray;">
-        We develop an acoustic solver based on the boundary-element method (BEM) to model the skull and de-aberrate the images. 
+        The Born series methods, namely, traditional Born series (TBS) and convergent Born series (CBS), have
+been recently implemented to numerically solve the time-independent photoacoustic (PA) wave equation
+for an acoustically inhomogeneous source. The TBS algorithm diverges when the sound-speed mismatch is
+>20%, however, the CBS technique provides faithful result even beyond this limit. These protocols are iterative
+in nature and computationally expensive. Currently, MATLAB-based implementations are available to study
+PA emission from a single source mimicking a cell. However, efficient numerical implementation strategy is
+further needed particularly to calculate PA field from a tissue. Therefore, to develop insights, uniprocessorbased C codes were realized for these schemes. The PA field (in 2D) was computed at a distance 35 µm from a
+source (a light absorbing disc of radius 7.5 µm) over a frequency range from 7.32 to 512 MHz with a resolution
+of 7.32 MHz. The sound-speed within the source region was varied from vs = 1200, 1500 and 1800 m/s, but the
+same quantity for the ambient medium was fixed to v f = 1500 m/s. The C program was found to be at least 10
+times slower than the corresponding MATLAB program. It may be because MATLAB inherently implements
+parallel computing while evaluating the forward and backward fast Fourier transforms (FFTs) associated with
+the Born series approaches. Multiprocessor-based FFTs and parallel nested loops are being incorporated into
+the C program for enhancement of its execution speed.
       </span>
     </font>
   </div>
