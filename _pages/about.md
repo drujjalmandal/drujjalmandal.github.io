@@ -25,6 +25,9 @@ Dr. Mandal has also collaborated with researchers from reputed national and inte
 
 News
 ======
+
+1. 26/10/2026 - Join School of Young Medical Physicists (SYMP), The school is organized within the framework of Physics Without Frontiers (PWF) at the Abdus Salam International Centre for Theoretical Physics (ICTP).
+
 1. 12/09/2026 - Ph.D Degree awarded at [XXI Convocation](https://convocation.iiita.ac.in/).
 
 1. 28/08/2026 - Ph.D Viva-Voce (Oral Defense).
