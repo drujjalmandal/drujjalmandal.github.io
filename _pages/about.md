@@ -26,6 +26,8 @@ Dr. Mandal has also collaborated with researchers from reputed national and inte
 News
 ======
 
+1. 19/11/2026 - Join as a Physics Teacher (Secondary (9 and 10), First and Second Year), Gyan Vikash Mission, Affiliated with the West Bengal Board of Secondary Education (WBBSE),  Shershahi, Kaliachak,  Malda, West Bengal – 732201.
+
 1. 30/10/2026 - Join as a Physics Teacher (Secondary (9 and 10), First and Second Year), Peace Academy, Gazole, Malda, 732124, Affiliated with the West Bengal Board of Secondary Education (WBBSE).
 
 1. 26/10/2026 - Join **PWF Yemen: School of Young Medical Physicists (SYMP)**, The school is organized within the framework of [Physics Without Frontiers (PWF) at the Abdus Salam International Centre for Theoretical Physics (ICTP)](https://www.ictp.it/home/physics-without-frontiers), October - December 2026 Online Training Programme.
